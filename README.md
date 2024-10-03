@@ -1,0 +1,2 @@
+# RapidNews
+a news website
